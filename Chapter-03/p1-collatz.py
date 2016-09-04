@@ -7,7 +7,7 @@ def collatz(number):
             print(str(number))
         else:
             number = (number * 3 + 1)
-            print(str(3 * number + 1))
+            print(str(number))
 
     print("Iterations was " + str(iterations))
 
