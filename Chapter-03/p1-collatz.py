@@ -9,3 +9,5 @@ def collatz(number):
 
 userNum = int(input("Enter a number: "))
 collatz(userNum)
+
+
