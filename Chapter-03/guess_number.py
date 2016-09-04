@@ -14,4 +14,5 @@ for i in range(1,7):
             print("Too low")
         else:
             print("Too high")
+
 print('Unlucky, number was ' + str(randomNum))
